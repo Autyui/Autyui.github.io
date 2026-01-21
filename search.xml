@@ -8,19 +8,19 @@
       <link href="/post/9cbad0fc.html"/>
       <url>/post/9cbad0fc.html</url>
       
-        <content type="html"><![CDATA[<p>### 📍 博客定位</p><p>这里主要记录我的学习笔记，包括：</p><p>1. **二进制安全** - PWN相关技术</p><p>2. **算法学习** - 算法设计与实现</p><p>3. **技术分享** - 工具使用和心得</p><p>### 🛠️ 技术选型</p><p>- **博客框架**：Hexo</p><p>- **主题**：Butterfly</p><p>- **部署**：GitHub Pages</p><p>- **域名**：autyui.github.io</p><p>### 🚀 未来计划</p><p>- 分享CTF比赛中的收获</p><p>- 记录算法学习路径</p><hr><p>期待在这里与你交流技术，共同进步！</p><blockquote><p>路漫漫其修远兮，吾将上下而求索。</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<pre><code>博客定位</code></pre><p>这里主要记录我的学习笔记，包括：</p><p>1. 二进制安全 - PWN相关技术</p><p>2. 算法学习 - 算法设计与实现</p><p>3. 技术分享 - 工具使用和心得</p><pre><code>技术选型</code></pre><p>- 博客框架：Hexo</p><p>- 主题：Butterfly</p><p>- 部署：GitHub Pages</p><p>- 域名：autyui.github.io</p><pre><code>未来计划</code></pre><p>- 分享CTF比赛中的收获</p><p>- 记录算法学习路径</p><hr><p>期待在这里与你交流技术，共同进步！</p><center><img src="/img/posts/cover3.jpg" alt="Autyui博客封面"      style="width: 60%; max-width: 300px; height: auto;             border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);"><p style="color: #777; font-size: 0.9em; margin-top: 10px;">欢迎来到我的技术博客！</p></center><blockquote><p>路漫漫其修远兮，吾将上下而求索。</p></blockquote>]]></content>
       
       
       <categories>
           
-          <category> &#92;[随笔] </category>
+          <category> 随笔 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> &#92;[博客, 介绍, 技术] </tag>
+            <tag> 博客, 介绍, 技术 </tag>
             
         </tags>
       
